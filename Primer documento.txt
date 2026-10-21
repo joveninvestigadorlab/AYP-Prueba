@@ -1,1 +1,2 @@
-Este es mi primer documento cargado a github
+Este es mi primer documento
+Más texto agregado
